@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MikaeilAlavinejad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning machine and deep learning...
+- 👋 Hi, I’m Mikaeil Alavinejad
+- 👀 I’m interested in Al
+- 🌱 I’m currently learning machine and deep learning
 - 💞️ I’m looking to collaborate on data science project
 - 📫 you can easily send me emails. alavimikaeil@gmail.com
 
