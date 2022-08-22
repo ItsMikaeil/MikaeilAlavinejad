@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MikaeilAlavinejad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning machine and deep learning...
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning machine and deep learning
 - 💞️ I’m looking to collaborate on data science project
-- 📫 you can easily send me emails. alavimikaeil@gmail.com
+- 📫 you can easily send me emails at alavimikaeil@gmail.com
 
 <!---
 MikaeilAlavinejad/MikaeilAlavinejad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
